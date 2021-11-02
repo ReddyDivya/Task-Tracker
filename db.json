@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Complete Task Tracker Project",
+      "day": "19 Oct 2021",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Fix the bug in the Task Tracker Project",
+      "day": "20 Oct 2021",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Task Tracker Notes",
+      "day": "20 Oct 2021",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Update in twitter",
+      "day": "everyday",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
